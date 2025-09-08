@@ -1,0 +1,5 @@
+envVars:
+  - key: BOT_TOKEN
+    value: 7914229102:AAGVfk6qafoooQM28fS-SY0mWlXlSRwL_Do
+  - key: PAYMENT_BOT_URL
+    value: "http://t.me/send?start=IVwpcz1iEoxg"
