@@ -1,6 +1,0 @@
-# Добавьте новое состояние
-PAYMENT_CONFIRMATION: [MessageHandler(filters.TEXT & ~filters.COMMAND, handle_payment_amount)],
-
-# Добавьте обработчик для кнопки пополнения баланса
-elif text == '💳 Пополнить баланс':
-    return await handle_balance_topup(update, context)
